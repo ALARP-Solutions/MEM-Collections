@@ -8,11 +8,15 @@
 -->
 
 <!-- PROJECT SHIELDS -->
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Issues][issues-shield]][issues-url]
+
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -29,12 +33,13 @@
     <a href="https://github.com/ALARP-Solutions/MEM-Collections"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/ALARP-Solutions/MEM-Collections">View Demo</a>
-    · -->
     <a href="https://github.com/ALARP-Solutions/MEM-Collections/issues">Report Bug</a>
     ·
     <a href="https://github.com/ALARP-Solutions/MEM-Collections/issues">Request Feature</a>
+  
   </p>
+
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -67,6 +72,12 @@
 
 ## About The Project
 
+<div align="center">
+
+![size-shield] ![files-shield] ![lines-shield]
+
+</div>
+
 TBA
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -87,7 +98,9 @@ TBA
 <!-- GETTING STARTED -->
 
 ## Getting Started
+
 TBA
+
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps. -->
 
@@ -95,7 +108,7 @@ To get a local copy up and running follow these simple example steps. -->
 
 The following are required when working with this repo:
 
-* MSAL
+- MSAL
 
 These can be installed automatically with the [Prequisite Configuration Script](https://github.com/ALARP-Solutions/MEM-Collections/blob/main/Repo%20Tools/PrerequisiteConfiguration.ps1).
 
@@ -141,6 +154,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -157,6 +171,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/ALARP-Solutions/MEM-Collections/blob/main/LICENSE.txt) for more information.
@@ -164,9 +179,10 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/ALARP-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* Project icon designed by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/free-icons/software)
+- Project icon designed by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/free-icons/software)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,6 +192,7 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/ALARP-
 [contributors-shield]: https://img.shields.io/github/contributors/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
 [contributors-url]: https://github.com/ALARP-Solutions/MEM-Collections/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/ALARP-Solutions/MEM-Collections/network/members
 [stars-shield]: https://img.shields.io/github/stars/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
 [stars-url]: https://github.com/ALARP-Solutions/MEM-Collections/stargazers
@@ -183,6 +200,9 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/ALARP-
 [issues-url]: https://github.com/ALARP-Solutions/MEM-Collections/issues
 [license-shield]: https://img.shields.io/github/license/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
 [license-url]: https://github.com/ALARP-Solutions/MEM-Collections/blob/master/LICENSE.txt
+[files-shield]: https://img.shields.io/github/directory-file-count/ALARP-Solutions/MEM-collections
+[lines-shield]: https://img.shields.io/tokei/lines/github/ALARP-Solutions/MEM-Collections
+[size-shield]: https://img.shields.io/github/repo-size/alarp-solutions/MEM-collections
 
 <!-- [linkedin-url]: https://linkedin.com/in/linkedin_username -->
 
