@@ -74,7 +74,9 @@
 
 <div align="center">
 
-![size-shield] ![files-shield] ![lines-shield]
+![size-shield]
+![lines-shield]
+<!-- ![files-shield] -->
 
 </div>
 
