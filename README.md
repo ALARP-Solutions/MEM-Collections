@@ -189,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
 [issues-url]: https://github.com/ALARP-Solutions/MEM-Collections/issues
 [license-shield]: https://img.shields.io/github/license/ALARP-Solutions/MEM-Collections.svg?style=for-the-badge
-[license-url]: https://github.com/ALARP-Solutions/MEM-Collections/blob/main/LICENSE.txt
+[license-url]: https://github.com/ALARP-Solutions/MEM-Collections/blob/master/LICENSE.txt
 
 <!-- [linkedin-url]: https://linkedin.com/in/linkedin_username -->
 
