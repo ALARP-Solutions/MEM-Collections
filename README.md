@@ -30,7 +30,7 @@
   <p align="center">
     A collection of ideas, thoughts and scripts for effective configuration of Intune for small business.
     <br />
-    <a href="https://github.com/ALARP-Solutions/MEM-Collections"><strong>Explore the docs »</strong></a>
+    <a href="https://alarp-solutions.github.io/MEM-Collections/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ALARP-Solutions/MEM-Collections/issues">Report Bug</a>
